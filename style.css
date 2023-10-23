@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* TOPO */
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#head{
+    background-color: #FFD900;
+    height: 120px;
+}
+.logo{
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+/* CORPO da PAGE */
+#center{
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+#topic-1{
+    background-color: #514988;
+    width: 800px;
+    height: 650px;
+}
+.line-1{
+    color: #FFD900;
+    font-size: 70px;
+}
+.line-2{
+    color: white;
+    font-size: 30px;
+}
+.line-3{
+    color: white;
+    font-size: 26px;
+    font-weight: 400;
+}
+
+/* TIMER e VÍDEO */
+#topic-2{
+    background-color: antiquewhite;
+    width: 1200px;
+    height: 650px;
+}
+.timer{
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: auto;
+    color: #514988;
+    font-size: 25px;
+}
+.line-4{
+    color: #E33881;
+    font-size: 36px;
+}
+
+/* CARDS e LINK de COMPRA */
+
+#topic-3{
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+#display-1{
+    background-color: floralwhite;
+    width: 1200px;
+    height: 300px;
+}
+#display-2{
+    background-color: floralwhite;
+    width: 800px;
+    height: 300px;
+}
+.line-5{
+    color: #F3C61F;
+    text-align: center;
+}
+button{
+    width: 596px;
+    height: 148px;
+    background-color: #514988;
+    font-size: 45px;
+    color:#EAECE5;
+    border: 0px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #514988;
+    color: white;
+    transform: translateY(-7px);
+    transition: 1s;
+    box-shadow: 0px 15px 20px #3c3086;
+}
