@@ -68,12 +68,10 @@ body{
     align-items: center;
 }
 #display-1{
-    background-color: floralwhite;
     width: 100vw;
     height: 300px;
 }
 #display-2{
-    background-color: floralwhite;
     width: 75vw;
     height: 300px;
 }
