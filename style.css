@@ -30,15 +30,15 @@ body{
 }
 .line-1{
     color: #FFD900;
-    font-size: 70px;
+    font-size: 50px;
 }
 .line-2{
     color: white;
-    font-size: 30px;
+    font-size: 25px;
 }
 .line-3{
     color: white;
-    font-size: 26px;
+    font-size: 20px;
     font-weight: 400;
 }
 
@@ -53,11 +53,11 @@ body{
     grid-auto-flow: column;
     grid-auto-columns: auto;
     color: #514988;
-    font-size: 25px;
+    font-size: 22px;
 }
 .line-4{
     color: #E33881;
-    font-size: 36px;
+    font-size: 26px;
 }
 
 /* CARDS e LINK de COMPRA */
@@ -72,19 +72,19 @@ body{
     height: 300px;
 }
 #display-2{
-    width: 75vw;
+    width: 60vw;
     height: 300px;
 }
 .line-5{
     color: #F3C61F;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
 }
 button{
-    width: 596px;
-    height: 148px;
+    width: 380px;
+    height: 110px;
     background-color: #514988;
-    font-size: 45px;
+    font-size: 30px;
     color:#EAECE5;
     border: 0px;
     border-radius: 10px;
