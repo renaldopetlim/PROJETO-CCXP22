@@ -80,10 +80,15 @@ body{
             color: #F3C61F;
             text-align: center;
             font-size: 25px;
+            padding-top: 36px;
+        }
+        .images{
+            margin-top: 35px;
         }
     #display-2{
         width: 60vw;
         height: 300px;
+        padding-top: 120px;
     }
 button{
     width: 380px;
@@ -153,5 +158,15 @@ button{
         }
 
     /* 3ª Seção */
+    #topic-3{
+        display: block;
+    }
+        .images img{
+            width: 150px;
+            margin-bottom: 25px;
+        }
+    button{
+        margin: 75px 0 25px 50px;
 
+    }
 }
