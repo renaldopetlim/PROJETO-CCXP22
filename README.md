@@ -11,4 +11,4 @@ Tecnologias Usadas: <br>
 <img src="/readme/responsividade-desktop.png" width="480px">
 
 ### Responsividade Mobile:
-<img src="/readme/responsividade-mobile.jpg" width="480px">
+<img src="/readme/responsividade-mobile.png" width="480px">
