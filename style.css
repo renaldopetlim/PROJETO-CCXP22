@@ -161,12 +161,18 @@ button{
     #topic-3{
         display: block;
     }
+    .line-5{
+        padding: 25px 10px 0 10px;
+    }
         .images img{
             width: 150px;
             margin-bottom: 25px;
         }
+    #display-2{
+        margin-left: 16%;
+    }
     button{
-        margin: 75px 0 25px 50px;
-
+        margin-top: 75px;
+        width: 70vw;
     }
 }
